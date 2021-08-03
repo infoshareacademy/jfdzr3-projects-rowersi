@@ -1,0 +1,15 @@
+.waypointElement {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  border: 2px solid #000;
+  background-color: #fff;
+}
+
+.originElement {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  border: 2px solid #000;
+  background-color: #fff;
+}
